@@ -70,23 +70,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ARNOLDACHIKI/ARNOLDACHIKI/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### ✅ Final Steps
-
-To make sure your **GitHub Contribution Snake** appears:
-1. **Ensure that you have created the workflow file** in `.github/workflows/snake.yml` in your GitHub repository.
-2. **Push the workflow file** and check under **Actions** in your repository to see if it has run.
-3. **If the workflow did not run**, manually trigger it:
-   - Go to **Actions** → **Generate Snake Animation** → **Run Workflow**.
-4. Once the workflow runs, the snake animation will update automatically.
-
----
 
 
