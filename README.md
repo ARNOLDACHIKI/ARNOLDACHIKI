@@ -69,6 +69,11 @@
 </div>
 
 ---
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ARNOLDACHIKI/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 
