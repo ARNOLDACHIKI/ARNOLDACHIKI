@@ -18,7 +18,7 @@
 - 👯 Looking to collaborate on [MAT](https://github.com/ARNOLDACHIKI/matatu-app)
 - 🤝 Seeking help with [Songa](https://github.com/ARNOLDACHIKI/Songa)
 - 💬 Ask me about **AI, Web Development, and Accessibility Tech**
-- ⚡ Fun fact: **I kinda hate Math but love solving problems!**
+- ⚡ Fun fact: **All work without play makes JJ a dull boy**
 
 ---
 
