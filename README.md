@@ -1,2 +1,2 @@
 ARNOLD ACHIKI 
-am a  computer science student at the MULTIMEDIA UNIVERSITY OF KENYA
+am a third year computer science student at the MULTIMEDIA UNIVERSITY OF KENYA
