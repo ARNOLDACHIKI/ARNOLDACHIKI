@@ -1,6 +1,6 @@
 ARNOLD ACHIKI
 
-a third year computer science student at the MULTIMEDIA UNIVERSITY OF KENYAh
+a third year computer science student at the MULTIMEDIA UNIVERSITY OF KENYA
 I am passionyate about AI and machine learning  and cyber sercurity
 
 
